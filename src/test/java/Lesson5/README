@@ -1,0 +1,9 @@
+#ChangePriceTest - Изменение цены
+
+#CreateProductTest - Создание товара + удаление
+
+#GetAllProductsTest - Получение всех товаров
+
+#GetCategoryTest - Получение категории
+
+#GetProductTest - Получение продукта
